@@ -8,3 +8,47 @@ div{
   border: 1px solid black;
   margin: 5px;
 }
+
+.huber{
+  background: #ca4040;
+}
+
+#lisa{
+  background: #ece497;
+}
+
+.meier{
+  background: lightblue;
+}
+
+#luis{
+  background: lightgreen;
+}
+
+.huber div{
+  background: pink;
+}
+
+#susi.meier{
+  background: lightblue;
+}
+
+#brigitte{
+  background: lightgrey;
+}
+
+.meier #brigitte{
+  background: orange;
+}
+
+.meier div#brigitte{
+  background:#2196f3;
+}
+
+/* #georg,#susi{
+  background: pink;
+} */
+
+/* #susi{
+  background: pink;
+} */
